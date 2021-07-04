@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **android studio**
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akilasachintha&show_icons=true&locale=en&layout=compact" alt="akilasachintha" />
  </p>
- <br>
+ 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akilasachintha" alt="akilasachintha" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
