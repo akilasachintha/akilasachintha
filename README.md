@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Android studio.**
  
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akilasachintha&theme=chartreuse-dark" alt="akilasachintha" />
+ <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akilasachintha&theme=chartreuse-dark" alt="akilasachintha" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akilasachintha&theme=chartreuse-dark&layout=compact"/></p>
 
  
  <h3 align="left">Languages and Tools:</h3>
