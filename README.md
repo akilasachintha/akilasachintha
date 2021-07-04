@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Android studio.**
  
+ <img src="https://github-readme-stats.vercel.app/api?username=akilasachintha&theme=chartreuse-dark&show_icons=true"/>
+ 
  <p>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akilasachintha&theme=chartreuse-dark" alt="akilasachintha" />&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akilasachintha&theme=chartreuse-dark&layout=compact" alt="akilasachintha" />
@@ -18,5 +20,5 @@
  
 <img src="https://github-profile-trophy.vercel.app/?username=akilasachintha&theme=juicyfresh"/>
  
-<img src="https://github-readme-stats.vercel.app/api?username=akilasachintha&theme=chartreuse-dark&show_icons=true"/>
+
 
