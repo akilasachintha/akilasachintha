@@ -14,6 +14,8 @@
 
  
 <img src="https://github-profile-trophy.vercel.app/?username=akilasachintha&theme=onedark"/>
+ 
+ <img src="https://github-readme-stats.vercel.app/api?username=akilasachintha"/>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=akilasachintha&" alt="akilasachintha" /></p>
  
