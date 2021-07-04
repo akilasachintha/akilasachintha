@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Akila Sachintha  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://komarev.com/ghpvc/?username=akilasachintha&label=Profile%20views&color=0e75b6&style=flat" alt="akilasachintha" /></h1>
+<h1 align="left">Hi 👋, I'm Akila Sachintha <img src="https://komarev.com/ghpvc/?username=akilasachintha&color=brightgreen" alt="akilasachintha" /></h1>
 <h3 align="left">A passionate full stack developer and software developer.</h3>
  
 - 🔭 I’m currently working on **Few projects.**
