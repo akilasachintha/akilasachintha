@@ -14,7 +14,7 @@
  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akilasachintha" alt="akilasachintha" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=akilasachintha&show_icons=true&locale=en" alt="akilasachintha" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=akilasachintha&show_icons=true&locale=en" alt="akilasachintha" /></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=akilasachintha&" alt="akilasachintha" /></p>
  
